@@ -1,0 +1,8 @@
+Name,Age,City,Salary,yea
+John,25,Delhi,50000
+Alice,28,Mumbai,60000
+Bob,,Delhi,45000
+John,25,Delhi,50000
+Alice,29,,62000
+John,25,Delhi,50000
+,,,
